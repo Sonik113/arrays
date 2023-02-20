@@ -1,0 +1,16 @@
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\VisualStudioSetup\масивы\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\VisualStudioSetup\масивы\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\VisualStudioSetup\масивы\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\VisualStudioSetup\масивы\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\VisualStudioSetup\масивы\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\VisualStudioSetup\масивы\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\VisualStudioSetup\масивы\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\VisualStudioSetup\масивы\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
